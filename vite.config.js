@@ -6,6 +6,11 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 3001,
-    host: true,
+    host: true, // Permet d'être accessible depuis le réseau
+  },
+  resolve: {
+    alias: {
+      '@': './src', // Alias pour simplifier les imports
+    },
   },
 })
