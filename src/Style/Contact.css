@@ -19,6 +19,11 @@
     
 }
 
+.Contact > .reseauContainer img {
+    width: 100px;
+    height: 100px;
+}
+
 .Contact > #CV:hover {
     background-color: #96AA68;
     color: #EBF2DA;
