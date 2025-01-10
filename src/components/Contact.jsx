@@ -2,7 +2,7 @@ import Email from '../assets/contacts/Email.svg';
 import Linkedin from '../assets/contacts/Linkedin.svg';
 import Github from '../assets/contacts/Github.svg';
 
-import CV from '../assets/CV_ALM_2023.pdf';
+import CV from '../assets/CV_ALM_2025.pdf';
 
 function Contact() {
   return (
