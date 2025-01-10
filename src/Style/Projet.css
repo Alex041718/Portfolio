@@ -50,7 +50,7 @@
     margin: 0;
 }
 
-.Projet .skills {
+ .skills {
     background-color: #FAFAFA;
     display: flex;
     flex-direction: column;
@@ -58,9 +58,9 @@
     
 }
 
-.Projet .skills {
+.skills {
 
-    display: none;
+    
 
 
     padding: 13px 45px;
@@ -69,7 +69,7 @@
 border-radius: 6px;
 }
 
-.Projet .skills > .skillsTitle {
+ .skills > .skillsTitle {
     font-weight: 600;
     font-size: 14px;
     line-height: 26px;  
@@ -77,7 +77,7 @@ border-radius: 6px;
     text-align: center;
 }
 
-.Projet .skills > .smallComment {
+.skills > .smallComment {
     font-weight: 400;
     font-size: 9px;
     
@@ -90,18 +90,18 @@ border-radius: 6px;
     color: #8B8B8B;
 }
 
-.Projet .skills .boxCompetence {
+ .skills .boxCompetence {
     
 }
 
-.Projet .skills .boxCompetence > h4 {
+.skills .boxCompetence > h4 {
     font-weight: 500;
     font-size: 11px;
-    
+    font-family: Inter;
     margin: 0;
 }
 
-.Projet .skills .boxCompetence > p {
+ .skills .boxCompetence > p {
     font-style: normal;
     font-weight: 500;
     font-size: 9px;

@@ -15,11 +15,11 @@
       "skills": [
         [["Compétence : Adapter des applications sur un ensemble de supports"],
         "Choisir et implémenter les architectures adaptées",
-        "AC 4 - Développer des interfaces utilisateur"],
+        "Intégrer des solutions dans un environnement de production",
+        "Faire évoluer une application existante"],
         
-        [["Compétence 4 : Gérer des données de l’information"],
-        "AC 1 - Mettre à jour et interroger une base de données",
-        "AC 2 - Visualiser des données"]
+        [["Compétence : Analyser et optimiser des applications"],
+        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
       ]
 
     },
