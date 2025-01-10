@@ -16,7 +16,7 @@ function Contact() {
           <a target= "_blank" rel="noreferrer" href='https://www.linkedin.com/in/alexandre-le-marec-052675262/'><img src={Linkedin} alt="Linkedin" /></a>
       </div>
 
-      <a className='button' id='CV' href={CV} download="CV_ALM_2023.pdf">Télécharger mon CV</a>
+      <a className='button' id='CV' href={CV} download="CV_ALM_2025.pdf">Télécharger mon CV</a>
 
     </div>
   );

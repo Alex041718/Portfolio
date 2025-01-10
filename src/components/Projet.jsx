@@ -6,10 +6,6 @@ import Puissance4 from '../assets/projectPictures/Puissance4.png';
 import phpTreatment from '../assets/projectPictures/phpTreatment.png';
 
 
-
-
-
-
 import GithubLink from '../assets/GithubLink.svg';
 
 function Projet(props) {
