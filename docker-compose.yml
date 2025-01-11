@@ -11,3 +11,9 @@ services:
     ports:
       - '3001:3001'
     command: sh -c "npm install && npm run dev"
+    networks:
+      - reverse-proxy
+
+networks:
+  reverse-proxy:
+    external: true
