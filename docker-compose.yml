@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    container_name: app
+    container_name: portfolio
     image: node:16-alpine
     working_dir: /app
     volumes:
