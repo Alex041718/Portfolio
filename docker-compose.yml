@@ -11,9 +11,3 @@ services:
     ports:
       - '3001:3001'
     command: sh -c "npm install && npm run dev"
-    networks:
-      - app-network
-
-networks:
-  app-network:
-    driver: bridge
