@@ -33,9 +33,9 @@
       ],
 
       "skills": [
-        [["Compétence 1 : Développer des applications informatiques simples"],
-        "AC 11.01 Implémenter des conceptions simples",
-        "AC 11.03 Faire des essais et évaluer les résultats en regard des spécifications"]
+        [["Compétence : Adapter des applications sur un ensemble de supports"],
+          "Choisir et implémenter les architectures adaptées",
+          "Intégrer des solutions dans un environnement de production"]
       ]
 
     },
@@ -49,9 +49,9 @@
       ],
 
       "skills": [
-        [["Compétence 2 : Appréhender et construire des algorithmes"],
-        "AC 12.01 Analyser un problème avec méthode (découpage  en éléments algorithmiques simples, structure de  données...)  ",
-        "AC 12.02 Comparer des algorithmes pour des problèmes  classiques (tris simples, recherche...)"]
+        [["Compétence : Appréhender et construire des algorithmes"],
+        "Analyser un problème avec méthode (découpage  en éléments algorithmiques simples, structure de  données...)  ",
+        "Comparer des algorithmes pour des problèmes  classiques (tris simples, recherche...)"]
         
         
       ]
@@ -69,13 +69,14 @@
       "github": "https://github.com/Alex041718/Elex",
 
       "skills": [
-        [["Compétence 1 : Réaliser un développement d’application"],
-        "AC 3 - Faire des essais et évaluer les résultats en regard des spécifications",
-        "AC 4 - Développer des interfaces utilisateur"],
+        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        "Choisir et implémenter les architectures adaptées",
+        "Intégrer des solutions dans un environnement de production",
+        "Faire évoluer une application existante"],
         
-        [["Compétence 4 : Gérer des données de l’information"],
-        "AC 1 - Mettre à jour et interroger une base de données",
-        "AC 2 - Visualiser des données"]
+        [["Compétence : Gérer des données de l’information"],
+        "Mettre à jour et interroger une base de données",
+        "Visualiser des données"]
       ]
 
     },
@@ -92,11 +93,10 @@
       "github": "https://github.com/Alex041718/sae103Temp",
 
       "skills": [
-        [["Compétence 3 : Installer et configurer un poste de travail"],
-        "AC 13.01 Identifier les différents composants (matériels et logiciels) d'un système numérique",
-        "AC 13.02 Utiliser les fonctionnalités de base d'un système multitâches / multiutilisateurs",
-        "AC 13.03 Installer et configurer un système d'exploitation et des outils de développement"
-        ]
+        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        "Choisir et implémenter les architectures adaptées",
+        "Intégrer des solutions dans un environnement de production",
+        "Faire évoluer une application existante"]
       ]
 
     },
@@ -111,9 +111,9 @@
       
 
       "skills": [
-        [["AC 16.02 Découvrir les aptitudes requises selon les différents secteurs d'activité"],
-        "AC 16.03 Identifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
-        "AC 16.04 Acquérir les compétences interpersonnelles pour travailler en équipe"
+        [["Découvrir les aptitudes requises selon les différents secteurs d'activité"],
+        "Identifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
+        "Acquérir les compétences interpersonnelles pour travailler en équipe"
         ]
       ]
 
@@ -129,9 +129,9 @@
       "github": "regreihgiuh",
 
       "skills": [
-        [["AC 16.02 Découvrir les aptitudes requises selon les différents secteurs d'activité"],
-        "AC 16.03 Identifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
-        "AC 16.04 Acquérir les compétences interpersonnelles pour travailler en équipe"
+        [["Découvrir les aptitudes requises selon les différents secteurs d'activité"],
+        "dentifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
+        "Acquérir les compétences interpersonnelles pour travailler en équipe"
         ]
       ]
 
