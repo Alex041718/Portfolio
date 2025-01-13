@@ -4,13 +4,14 @@ import Bot4 from '../assets/projectPictures/Bot4.png';
 import Elex from '../assets/projectPictures/Elex.png';
 import Puissance4 from '../assets/projectPictures/Puissance4.png';
 import phpTreatment from '../assets/projectPictures/phpTreatment.png';
+import Breizhile from '../assets/projectPictures/Breizhile.png';
 import { useState } from 'react';
 
 import GithubLink from '../assets/GithubLink.svg';
 
 function Projet(props) {
   // création d'un liste des liens des images
-  const images = [Amazing,Puissance4, Bot4, Elex, phpTreatment ];
+  const images = [Amazing,Breizhile,Puissance4, Bot4, Elex, phpTreatment ];
 
   var imageProject = images[props.data.id];
   var githubBool = props.data.hasOwnProperty('github');
