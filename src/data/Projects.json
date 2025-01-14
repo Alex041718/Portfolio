@@ -1,6 +1,29 @@
 [
+  {
+    "id": 0,
+    "title": "Xperience",
+    "description": "Xperience est le logiciel sur lequel je bosse au sein de syfadis. C'est un logiciel très complet de gestion de formation. Mon Intérêt est d'évoluer dans un environnement de production, de comprendre les enjeux et les contraintes de l'entreprise, de travailler en équipe et de m'adapter à un code existant.",
+    "image": "Amazing.png",
+    "tech": [
+      ".NET",
+      "NHibernate",
+      "React",
+      "Entity Framework"
+    ],
+
+    "skills": [
+      [["Compétence : Adapter des applications sur un ensemble de supports"],
+      "Choisir et implémenter les architectures adaptées",
+      "Intégrer des solutions dans un environnement de production",
+      "Faire évoluer une application existante"],
+      
+      [["Compétence : Analyser et optimiser des applications"],
+      "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
+    ]
+
+  },
     {
-      "id": 0,
+      "id": 1,
       "title": "Amazing",
       "description": "Amazing est un outil de surveillance de prix de produit Amazon. Il permet de rechercher un produit et d’en lancer la surveillance. Un graphe permet de visualiser l’évolution du prix d’un produit.",
       "image": "Amazing.png",
@@ -24,7 +47,7 @@
 
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Breizhile",
       "description": "Breizhile est un site de location saisonnière de logements en Bretagne. Il permet de rechercher un logement et de le réserver, l'application est complètement dockerisé.",
       "image": "Breizhile.png",
@@ -49,7 +72,7 @@
 
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Puissance 4",
       "description": "J’ai conçu le jeu “ Puissance 4 “, jouable à deux dans un terminal, dans le langage C. Le programme gère toutes les fonctionnalité du jeu du puissance 4 : la détection de victoire, le positionnement des jetons avec la gravité et la gestion de tour par tour pour les 2 joueurs.",
       "image": "Puissance4.png",
@@ -65,7 +88,7 @@
 
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Bot de Puissance 4",
       "description": "J’ai dévelopé un “Bot de Puissance 4”, permettant à un joueur de l’affronter au jeu du Puissance 4. Le programme s’adapte à chaque état de la partie. En fonction de la grille, il bloque l’alignement des jetons du joueur adverse (Pour 3 et 4 jetons) et est capable de choisir la meilleure action à faire en observant un coup à l’avance s’il perd ou non. Le Programme est développé en C.",
       "image": "Bot4.png",
@@ -83,7 +106,7 @@
 
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Elex",
       "description": "Elex est un outil de gestion de serveur Minecraft. Avec une amie, j’avais mis en place un serveur minecraft sur un raspberry Pi. Voulant interragir avec ce dernier sans être en jeu, j’ai conçu une interface Web (Django) permettant d’executer des scripts Python envoyant des requêtes SSH à la machine qui héberge le serveur permettant de manipuler ce dernier.",
       "image": "Elex.png",
@@ -106,7 +129,7 @@
 
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Traitement de données Brut en PDF",
       "description": "C'est un outil Docker qui convertit les données trimestrielles brutes en PDF via un script PHP, créant trois rapports sur la région, les produits les plus populaires et les meilleurs vendeurs. Les résultats sont affichés sur une page HTML/PHP, convertible en PDF A4. Il vise une utilisation aisée avec une documentation claire.",
       "image": "phpTreatment.png",
@@ -126,7 +149,7 @@
 
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Organiser un événement",
       "description": "Organisation d'un évennement de Team building. Mise en place d'outils de travail collaboratif. Rapport d'organisation d'un évenement. Étude de l'enteprise choisie. Méthode du QQOQCCP. Organigramme des tâches : diagramme de gantt Flyer de l'événement Film événementiel. Support visuel de présentation orale de l'événement. Présentation orale",
       "image": "phpTreatment.png",
@@ -144,7 +167,7 @@
 
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Sport Koh",
       "description": "En groupe, nous avons réalisé un site web pour une association sportive fictive. Nous avons utilisé HTML, CSS et JS. Nous avons utilisé Figma pour réaliser le design du site.",
       "image": "sportKoh.png",
