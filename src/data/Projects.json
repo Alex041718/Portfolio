@@ -12,12 +12,12 @@
     ],
 
     "skills": [
-      [["Compétence : Adapter des applications sur un ensemble de supports"],
+      [["Réaliser"],
       "Choisir et implémenter les architectures adaptées",
       "Intégrer des solutions dans un environnement de production",
       "Faire évoluer une application existante"],
       
-      [["Compétence : Analyser et optimiser des applications"],
+      [["Optimiser"],
       "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
     ]
 
@@ -36,13 +36,15 @@
       "github": "https://github.com/Alex041718/Amazing",
 
       "skills": [
-        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        [["Réaliser"],
         "Choisir et implémenter les architectures adaptées",
         "Intégrer des solutions dans un environnement de production",
         "Faire évoluer une application existante"],
         
-        [["Compétence : Analyser et optimiser des applications"],
-        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
+        [["Optimiser"],
+        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"],
+        [["Administrer"],
+        "Héberger, Administrer et Mettre en production une application"]
       ]
 
     },
@@ -61,13 +63,19 @@
       "github": "https://github.com/Alex041718/Breizh-ile",
 
       "skills": [
-        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        [["Réaliser"],
         "Choisir et implémenter les architectures adaptées",
         "Intégrer des solutions dans un environnement de production",
         "Faire évoluer une application existante"],
         
-        [["Compétence : Analyser et optimiser des applications"],
-        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
+        [["Optimiser"],
+        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"],
+
+        [["Collaborer"],
+        "Conduire un projet et diriger une équipe"],
+
+        [["Administrer"],
+        "Héberger, Administrer et Mettre en production une application"]
       ]
 
     },
@@ -81,9 +89,11 @@
       ],
 
       "skills": [
-        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        [["Réaliser"],
           "Choisir et implémenter les architectures adaptées",
-          "Intégrer des solutions dans un environnement de production"]
+          "Intégrer des solutions dans un environnement de production"],
+          [["Optimiser"],
+        "Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application"]
       ]
 
     },
@@ -97,7 +107,7 @@
       ],
 
       "skills": [
-        [["Compétence : Appréhender et construire des algorithmes"],
+        [["Optimiser"],
         "Analyser un problème avec méthode (découpage  en éléments algorithmiques simples, structure de  données...)  ",
         "Comparer des algorithmes pour des problèmes  classiques (tris simples, recherche...)"]
         
@@ -117,12 +127,12 @@
       "github": "https://github.com/Alex041718/Elex",
 
       "skills": [
-        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        [["Réaliser"],
         "Choisir et implémenter les architectures adaptées",
         "Intégrer des solutions dans un environnement de production",
         "Faire évoluer une application existante"],
         
-        [["Compétence : Gérer des données de l’information"],
+        [["Gérer"],
         "Mettre à jour et interroger une base de données",
         "Visualiser des données"]
       ]
@@ -141,7 +151,7 @@
       "github": "https://github.com/Alex041718/sae103Temp",
 
       "skills": [
-        [["Compétence : Adapter des applications sur un ensemble de supports"],
+        [["Réaliser"],
         "Choisir et implémenter les architectures adaptées",
         "Intégrer des solutions dans un environnement de production",
         "Faire évoluer une application existante"]
@@ -159,7 +169,7 @@
       
 
       "skills": [
-        [["Découvrir les aptitudes requises selon les différents secteurs d'activité"],
+        [["Collaborer"],
         "Identifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
         "Acquérir les compétences interpersonnelles pour travailler en équipe"
         ]
@@ -177,7 +187,7 @@
       "github": "regreihgiuh",
 
       "skills": [
-        [["Découvrir les aptitudes requises selon les différents secteurs d'activité"],
+        [["Réaliser"],
         "dentifier les statuts, les fonctions et les rôles de chaque membre de l'équipe pluridisciplinaire",
         "Acquérir les compétences interpersonnelles pour travailler en équipe"
         ]
