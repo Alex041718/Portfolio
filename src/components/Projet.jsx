@@ -26,7 +26,7 @@ function Projet(props) {
   
 
   return (
-    <div className="Projet">
+    <div className="Projet" data-aos="fade-up">
         <div className='left'>
             <h2 className='projetTitle'>{props.data.title}</h2>
             <ul>

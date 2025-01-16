@@ -14,7 +14,7 @@ function SmallProjet(props) {
   var githubBool = props.data.hasOwnProperty('github');
 
   return (
-    <div className="smallProjet">
+    <div className="smallProjet" data-aos="fade-up">
         <div className='left'>
             <h2 className='smallprojetTitle'>{props.data.title}</h2>
             <ul>

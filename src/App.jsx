@@ -6,6 +6,12 @@ import ListeProjet from './components/ListeProjet'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
+//aos
+import AOS from "aos";
+import "aos/dist/aos.css";
+
+import { useEffect } from 'react'
+
 
 // Import Css
 import './Style/Header.css' // Header
@@ -24,6 +30,10 @@ import './Style/SmallProjet.css' // SmallProjet
 
 
 function App() {
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
   
 
   return (
